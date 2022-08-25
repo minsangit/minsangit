@@ -2,6 +2,8 @@
   Visitor count<br>
 </p> -->
 
+https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=I%27m%20Minsang%F0%9F%98%8A&fontSize=90
+
 <h1 align="center">Hi 👋, I'm minsang</h1>
 <h3 align="center"> Artificial Intelligence (AI) Engineer </h3>
 
