@@ -7,7 +7,7 @@
 
 <!--END_SECTION:waka-->
 
-Github：minsaang
+
 
 - 📫 How to reach me:
     - :email: [mssongit@gmail.com](mailto:mssongit@gmail.com)
